@@ -1,0 +1,1 @@
+# How-to-create-RESTFul-API-from-Django-Rest-Framework-in-Wagtail-CMS-project
